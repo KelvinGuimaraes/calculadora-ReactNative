@@ -1,7 +1,5 @@
 # Calculadora React Native
 
-Este é um projeto de uma calculadora simples desenvolvida em React Native utilizando o Expo Go para execução.
-
 ![Tela da Calculadora](./assets/calculadora.jpeg)
 
 ## Tecnologias Utilizadas
